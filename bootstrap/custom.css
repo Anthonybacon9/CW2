@@ -1,0 +1,10 @@
+.navbar {
+    padding: 0rem 0rem !important; 
+    color: #ff4500 !important;
+}
+
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    color: #111 !important;
+}
